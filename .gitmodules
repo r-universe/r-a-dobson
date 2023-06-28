@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dynamicSDM"]
 	path = dynamicSDM
 	url = https://github.com/r-a-dobson/dynamicsdm
-	shallow = true
-	registered = true
